@@ -1,5 +1,5 @@
-CameraBlur:Portrait mode using DeeplabV3+ Semantic Image Segmentation 
-=====================================================================
+NotchShot:
+==========
 An android app to apply notch filter to screenshots and give them a custom cutout with notch and rounded edges.
 
 ## Downloads
